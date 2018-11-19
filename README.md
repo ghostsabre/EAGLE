@@ -1,4 +1,4 @@
 # EAGLE
-PCB this
-/n
-this
+EAGLE libraries for pcb designs
+
+This repository contains eagle library files
